@@ -8,8 +8,6 @@ description: Herramientas
 toc: false
 ---
 
-![img-description](/assets/img/perfil/1746609949199.png)
-
 
 
 
