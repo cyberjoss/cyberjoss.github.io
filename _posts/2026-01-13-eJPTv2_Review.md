@@ -10,12 +10,12 @@ toc: false
 
 El 4 de diciembre del 2025 aprobé con éxito mi examen del
 eLearnSecurity Junior Penetration Tester (eJPTv2) y he decidido compartir 
-mi experiencia del examen y tambièn mi preparación previa para sacar 
-esta certificaciòn.
+mi experiencia del examen y también mi preparación previa para sacar 
+esta certificación.
 
-En mi opniòn esta certifiación es perfecta para toda aquella persona que està iniciando en el mundo de la Ciberseguridad o penetration testing.
+En mi opnión esta certifiación es perfecta para toda aquella persona que está iniciando en el mundo de la Ciberseguridad o penetration testing.
 
-Para lograr aprobar con èxito esta certificación, existen dos formas:
+Para lograr aprobar con éxito esta certificación, existen dos formas:
 
 - Ir directo al examen.
 
@@ -24,9 +24,9 @@ Para lograr aprobar con èxito esta certificación, existen dos formas:
 ### Antecedentes:
 
 No hace mucho tiempo comencé en el mundo del pentesting, mis primeros pasos
-fue mediante cursos gratuitos de Academmias de Ciberseguridad online. 
+fue mediante cursos gratuitos de Academias de Ciberseguridad online. 
 Después empecé a practicar laboratorios y ctfs en plataformas como Tryhackme y 
-Hack the Box el cuàl me llevó a desarrollar bastante mis habilidades en pentesting.
+Hack the Box el cuál me llevó a desarrollar bastante mis habilidades en pentesting.
 
 ### Precio: 
 
