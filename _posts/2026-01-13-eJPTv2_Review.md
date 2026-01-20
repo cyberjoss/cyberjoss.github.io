@@ -8,37 +8,37 @@ description: Experiencia certificación
 toc: false
 ---
 
-El 4 de diciembre del 2025 aprobè con èxito mi examen del
+El 4 de diciembre del 2025 aprobé con éxito mi examen del
 eLearnSecurity Junior Penetration Tester (eJPTv2) y he decidido compartir 
-mi experiencia del examen y tambièn mi preparaciòn previa para sacar 
+mi experiencia del examen y tambièn mi preparación previa para sacar 
 esta certificaciòn.
 
 En mi opniòn esta certifiación es perfecta para toda aquella persona que està iniciando en el mundo de la Ciberseguridad o penetration testing.
 
-Para lograr aprobar con èxito esta certificaciòn, existen dos formas:
+Para lograr aprobar con èxito esta certificación, existen dos formas:
 
 - Ir directo al examen.
 
-- Tomar el curso de INE como preparaciòn previa al examen.
+- Tomar el curso de INE como preparación previa al examen.
 
 ### Antecedentes:
 
-No hace mucho tiempo comencè en el mundo del pentesting, mis primeros pasos
+No hace mucho tiempo comencé en el mundo del pentesting, mis primeros pasos
 fue mediante cursos gratuitos de Academmias de Ciberseguridad online. 
-Despuès empecè a practicar laboratorios y ctfs en plataformas como Tryhackme y 
-Hack the Box el cuàl me llevò a desarrollar bastante mis habilidades en pentesting.
+Después empecé a practicar laboratorios y ctfs en plataformas como Tryhackme y 
+Hack the Box el cuàl me llevó a desarrollar bastante mis habilidades en pentesting.
 
 ### Precio: 
 
 El costo del examen eJPT (Junior Penetration Tester) es de $249 por el voucher,
 que actualmente incluye acceso a los materiales de preparación "Fundamentals" de INE 
-y tambièn 2 intentos para dar el examen y aprobarlo aunque a veces hay ofertas que 
-pueden reducir el precio o incluir paquetes adicionales
+y también 2 intentos para dar el examen y aprobarlo aunque a veces hay ofertas que 
+pueden reducir el precio o incluir paquetes adicionales.
 
 ### Consideraciones: 
 
 - El examen es 100% práctico y se enfoca en habilidades reales de pentesting, es
-decir que a diferencia de otros exàmenes basta con memorizar un banco 
+decir que a diferencia de otros examenes basta con memorizar un banco 
 de preguntas para lograr aprobar, pero en este no. En este para poder contestar 
 una pregunta debes previamente vulnerar el sistema y/o encontrar lo que te pide 
 en el examen y tener al menos 70/100 puntos.
@@ -48,7 +48,7 @@ especialmente al incluir los materiales de estudio y la repetición.
 
 ### Recomendaciones: 
 
-1) Tomar apuntes de todo lo que màs te parezca relevante.
+1) Tomar apuntes de todo lo que más te parezca relevante.
 
 2) No te deseperes, cuentas con tiempo suficiente para rendir el examen (48 horas)
 
